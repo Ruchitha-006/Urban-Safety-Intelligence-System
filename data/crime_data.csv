@@ -1,4 +1,4 @@
-city,date,crime_type,latitude,longitude,area
+city,date,crime_type,latitude ,longitude,area
 Bengaluru,2023-04-13,fraud,12.949362397639062,77.60097804369379,Bengaluru_zone_3
 Bengaluru,2023-08-03,assault,12.931380742205107,77.58474393150073,Bengaluru_zone_3
 Bengaluru,2023-05-30,burglary,12.95998243731953,77.58409660385644,Bengaluru_zone_5
