@@ -5,5 +5,5 @@ class Crime(models.Model):
     latitude = models.FloatField()
     longitude = models.FloatField()
 
-    def __str__(self):
+    def __str__(self) :
         return self.crime_type
